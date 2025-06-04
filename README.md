@@ -1,1 +1,157 @@
-# Montelukast-page-by-Sania
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Montelukast Monograph</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #005580;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+            padding: 10px;
+        }
+        table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #0066cc;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto 20px auto;
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Clickable UMT Logo -->
+    <a href="https://umt.edu.pk" target="_blank">
+        <img src="https://umt.edu.pk/images/logo.png" alt="UMT Logo" class="logo">
+    </a>
+
+    <h1>Montelukast - Comprehensive Monograph</h1>
+
+    <h2>Submitted To:</h2>
+    <p>Sir Maaz Munir</p>
+
+    <h2>Submitted By:</h2>
+    <p>Sania Malik | F2021437085</p>
+
+    <h2>Description:</h2>
+    <p>Montelukast is a leukotriene receptor antagonist used in asthma therapy, exercise-induced breathing issues, and allergies.</p>
+
+    <h2>Chemical Information:</h2>
+    <ul>
+        <li><strong>Formula:</strong> C35H36ClNO3S</li>
+        <li><strong>Category:</strong> Leukotriene Receptor Antagonist (LRA)</li>
+    </ul>
+
+    <h2>Dosage Forms:</h2>
+    <ul>
+        <li>Tablets, chewable tablets, granules</li>
+        <li>Strengths: 4mg, 5mg, 10mg</li>
+    </ul>
+
+    <h2>Indications:</h2>
+    <ul>
+        <li>Asthma: ≥12 months</li>
+        <li>Exercise-Induced Bronchoconstriction: ≥6 years</li>
+        <li>Allergic Rhinitis: Seasonal (≥2 years), Perennial (≥6 months)</li>
+    </ul>
+
+    <h2>Mechanism of Action:</h2>
+    <p>Blocks leukotriene receptor CysLT1 to reduce inflammation, mucus, and bronchoconstriction.</p>
+
+    <h2>Pharmacokinetics:</h2>
+    <ul>
+        <li>Absorption: 64% bioavailability</li>
+        <li>Metabolism: CYP2C8, CYP3A4, CYP2C9</li>
+        <li>Excretion: Bile/feces</li>
+        <li>Half-life: 2.7–5.5 hours</li>
+    </ul>
+
+    <h2>Adverse Effects:</h2>
+    <ul>
+        <li>Fatigue, behavior changes, cramps, rash, etc.</li>
+    </ul>
+
+    <h2>Contraindications:</h2>
+    <ul>
+        <li>Neuropsychiatric disorders, aspirin sensitivity, hepatic issues</li>
+    </ul>
+
+    <h2>Interactions:</h2>
+    <ul>
+        <li><strong>Food:</strong> No effect</li>
+        <li><strong>Drugs:</strong> Acetaminophen, fluconazole</li>
+        <li><strong>Disease:</strong> Liver, neuro, pulmonary</li>
+    </ul>
+
+    <h2>Pregnancy & Lactation:</h2>
+    <ul>
+        <li>Category B – Use only if clearly needed</li>
+        <li>Breastfeeding: Caution advised</li>
+    </ul>
+
+    <h2>Off-Label Uses:</h2>
+    <ul>
+        <li>Chronic urticaria, eczema, AERD, cognitive disorders</li>
+    </ul>
+
+    <h2>Common Brands in Pakistan:</h2>
+    <table>
+        <tr>
+            <th>Brand</th>
+            <th>Form</th>
+            <th>Strength</th>
+            <th>Manufacturer</th>
+        </tr>
+        <tr>
+            <td>Myteka</td>
+            <td>Tablet</td>
+            <td>10 mg</td>
+            <td>Hilton Pharma Ltd</td>
+        </tr>
+        <tr>
+            <td>Montiget</td>
+            <td>Tablet</td>
+            <td>10 mg</td>
+            <td>Getz Pharma</td>
+        </tr>
+        <tr>
+            <td>Montika</td>
+            <td>Tablet</td>
+            <td>10 mg</td>
+            <td>Sami Pharmaceuticals</td>
+        </tr>
+        <tr>
+            <td>Ventomax</td>
+            <td>Tablet</td>
+            <td>10 mg</td>
+            <td>Highnoon Labs</td>
+        </tr>
+    </table>
+
+    <h2>Educational Video:</h2>
+    <a href="https://youtu.be/1hFxnIgW1Kw?si=QEMw_brT_OsBkkm-" target="_blank">Watch on YouTube</a>
+
+    <h2>References:</h2>
+    <ul>
+        <li><a href="https://www.drugs.com/pregnancy/montelukast.html">Drugs.com</a></li>
+        <li><a href="https://go.drugbank.com/drugs/DB00471">DrugBank</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Montelukast">Wikipedia</a></li>
+        <li><a href="https://www.sciencedirect.com/topics/neuroscience/montelukast">ScienceDirect</a></li>
+    </ul>
+
+</body>
+</html>
