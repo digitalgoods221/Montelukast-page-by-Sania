@@ -137,6 +137,47 @@
     <ul>
         <li>Chronic urticaria, eczema, AERD, cognitive disorders</li>
     </ul>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Montelukast Sodium vs. Potassium</title>
+  <style>
+    body { font-family: Arial; padding: 40px; background: #f8f9fa; color: #333; }
+    h1, h2 { color: #0074b7; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+    th { background: #e3f2fd; }
+  </style>
+</head>
+<body>
+  <h1>Montelukast Sodium vs. Potassium</h1>
+
+  <h2>1. Chemical Nature</h2>
+  <table>
+    <tr><th>Form</th><th>Description</th></tr>
+    <tr><td>Montelukast Sodium</td><td>Most commonly used and approved salt form.</td></tr>
+    <tr><td>Montelukast Potassium</td><td>Alternative form used in research/generics.</td></tr>
+  </table>
+
+  <h2>2. Clinical Use</h2>
+  <table>
+    <tr><th>Feature</th><th>Sodium</th><th>Potassium</th></tr>
+    <tr><td>Formulations</td><td>Widely available</td><td>Rarely used clinically</td></tr>
+    <tr><td>Bioequivalence</td><td>Reference standard</td><td>Must prove equivalence</td></tr>
+    <tr><td>Regulatory Approval</td><td>FDA/EMA approved</td><td>Limited to generics</td></tr>
+  </table>
+
+  <h2>3. Pharmacological Activity</h2>
+  <p>Both salt forms release the same active drug. Differences only affect formulation and stability.</p>
+
+  <h2>4. Why Sodium Is Preferred</h2>
+  <ul>
+    <li>Better solid formulation stability</li>
+    <li>Used in most clinical trials</li>
+    <li>Available in major brands (e.g., Singulair®)</li>
+  </ul>
+</body>
+</html>
 
     <h2>Common Brands in Pakistan:</h2>
     <table>
