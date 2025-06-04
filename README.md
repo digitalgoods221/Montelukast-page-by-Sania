@@ -76,7 +76,7 @@
   <meta charset="UTF-8">
   <title>Montelukast Dosing Guide</title>
   <style>
-    body { font-family: Arial; padding: 40px; background: #f8f9fa; color: #333; }
+    body { font-family: Arial; padding: 20px; background: #f8f9fa; color: #333; }
     h1, h2 { color: #0074b7; }
     table { width: 100%; border-collapse: collapse; margin: 20px 0; }
     th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
@@ -142,7 +142,7 @@
   <meta charset="UTF-8">
   <title>Montelukast Sodium vs. Potassium</title>
   <style>
-    body { font-family: Arial; padding: 40px; background: #f8f9fa; color: #333; }
+    body { font-family: Arial; padding: 20px; background: #f8f9fa; color: #333; }
     h1, h2 { color: #0074b7; }
     table { width: 100%; border-collapse: collapse; margin: 20px 0; }
     th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
@@ -222,6 +222,10 @@
         <li><a href="https://go.drugbank.com/drugs/DB00471">DrugBank</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Montelukast">Wikipedia</a></li>
         <li><a href="https://www.sciencedirect.com/topics/neuroscience/montelukast">ScienceDirect</a></li>
+        <li>EMA. <em>Summary of Product Characteristics – Montelukast</em>. European Medicines Agency. Available at: <a href="https://www.ema.europa.eu/en/medicines/human/EPAR/singulair" target="_blank">https://www.ema.europa.eu/en/medicines/human/EPAR/singulair</a></li>
+        <li>DailyMed. <em>Montelukast Sodium Label</em>. U.S. National Library of Medicine. Available at: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=some-id" target="_blank">https://dailymed.nlm.nih.gov/</a></li>
+        <li>PubChem. <em>Montelukast Sodium and Potassium Compound Summaries</em>. National Center for Biotechnology Information. Available at: <a href="https://pubchem.ncbi.nlm.nih.gov" target="_blank">https://pubchem.ncbi.nlm.nih.gov</a></li>
+        <li>Martindale: The Complete Drug Reference</em>. Pharmaceutical Press. (Professional subscription required)</li>
     </ul>
 
 </body>
